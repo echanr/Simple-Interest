@@ -13,7 +13,7 @@ function compute() {
 
 }
 
-//update ther ate value
+//update the rate value
 function getSliderValue() {
     document.getElementById("rateSpan").innerHTML = document.getElementById("rate").value;
 }
